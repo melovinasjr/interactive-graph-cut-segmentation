@@ -4,6 +4,10 @@ Coursework project for Image Processing.
 
 This project creates an interactive foreground/background segmentation tool. Users mark foreground and background seeds, then the program builds a graph and computes a segmentation using graph cut.
 
+## Preview
+
+![Interactive Graph Cut Segmentation preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to explore graph-based image segmentation, data terms, smoothness terms, and interactive user input.
